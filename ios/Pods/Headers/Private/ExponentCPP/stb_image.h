@@ -1,1 +1,0 @@
-../../../../../.expo-source/ios/cpp/stb_image.h

@@ -1,1 +1,0 @@
-../../../../../.expo-source/ios/ios/Exponent/ReactAppManager/EXFrameReactAppManager.h
