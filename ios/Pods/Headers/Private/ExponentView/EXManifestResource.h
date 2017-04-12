@@ -1,0 +1,1 @@
+../../../../../.expo-source/ios/ios/Exponent/Api/EXManifestResource.h

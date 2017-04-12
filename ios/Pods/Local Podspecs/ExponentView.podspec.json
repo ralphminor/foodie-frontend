@@ -1,0 +1,61 @@
+{
+  "name": "ExponentView",
+  "version": "1.13.1",
+  "summary": "Exponent",
+  "description": "Exponent lets web developers build truly native apps that work across both iOS and Android by writing them once in just JavaScript.",
+  "homepage": "http://docs.getexponent.com",
+  "license": "BSD",
+  "authors": "650 Industries, Inc.",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "http://github.com/exponent/exponent.git"
+  },
+  "source_files": "ios/Exponent/**/*.{h,m}",
+  "preserve_paths": "ios/Exponent/**/*.{h,m}",
+  "exclude_files": [
+    "ios/Exponent/EXAppDelegate.*",
+    "ios/Exponent/EXRootViewController.*",
+    "ios/Exponent/Supporting/**"
+  ],
+  "dependencies": {
+    "Amplitude-iOS": [
+      "~> 3.8"
+    ],
+    "Analytics": [
+      "~> 3.5"
+    ],
+    "AppAuth": [
+      "~> 0.4"
+    ],
+    "CocoaLumberjack": [
+      "~> 2.3"
+    ],
+    "Crashlytics": [
+      "~> 3.8"
+    ],
+    "FBSDKCoreKit": [
+      "~> 4.15"
+    ],
+    "FBSDKLoginKit": [
+      "~> 4.15"
+    ],
+    "FBSDKShareKit": [
+      "~> 4.15"
+    ],
+    "Fabric": [
+      "~> 1.6"
+    ],
+    "Google/SignIn": [
+      "~> 3.0"
+    ],
+    "GoogleMaps": [
+      "~> 2.2.0"
+    ],
+    "lottie-ios": [
+      "~> 1.0"
+    ]
+  }
+}
