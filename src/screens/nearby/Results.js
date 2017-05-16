@@ -6,7 +6,6 @@ import Search from './Search';
 import { Navigator } from 'react-native';
 import styles from './styles/NearbyScreen';
 import StarRating from 'react-native-star-rating';
-//import styles from './styles/NearbyScreen';
 
 class NearbyScreen extends Component {
 
