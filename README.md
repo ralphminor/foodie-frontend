@@ -23,7 +23,4 @@
 </ul>
 
 ### Screenshots & Wireframes
-![foodie1](https://cloud.githubusercontent.com/assets/22082195/26783934/08b9c63c-49b8-11e7-83e4-9359365e7fa6.PNG)
-
-![foodie-wireframe](https://cloud.githubusercontent.com/assets/22082195/26784367/6e3e2352-49ba-11e7-9d61-1f4723e170eb.PNG)
-
+![foodie](https://cloud.githubusercontent.com/assets/22082195/26784521/4995b546-49bb-11e7-9312-2b8135a58748.png)
