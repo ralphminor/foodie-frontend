@@ -4,9 +4,9 @@
 #### A native mobile app and backend API that helps users make better dining decisions by allowing them to rate, save and recall their own personal dining experiences including specific item ratings and reviews as well as consult general restaurant reviews, ratings and information brought into the app from the Yelp API.
 
 ### Technologies Used
-#### React, Redux, Expo, Node, Express, MongoDB, AWS, S3
+#### React-Native, Redux, Node, Express, MongoDB, AWS, S3, Expo
 
-### Prioritized Feature list (Label stretch features with STRETCH)
+### Prioritized Feature list
 
 <ul>MVP Features
 <li>Users can CRUD dining experience details.</li>
