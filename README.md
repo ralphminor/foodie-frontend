@@ -22,5 +22,8 @@
 <li>Users are presented with suggested dining locations / dishes based on their current location.</li>
 </ul>
 
-### Screenshots
+### Screenshots & Wireframes
 ![foodie1](https://cloud.githubusercontent.com/assets/22082195/26783934/08b9c63c-49b8-11e7-83e4-9359365e7fa6.PNG)
+
+![foodie-wireframe](https://cloud.githubusercontent.com/assets/22082195/26784367/6e3e2352-49ba-11e7-9d61-1f4723e170eb.PNG)
+
